@@ -61,7 +61,7 @@ pandas, numpy, matplotlib, seaborn, scikitlearn
 * Split training data and test data in the ratio 8:2
 
 # Model Evaluation
-* My resaturant rating prediction model obtained a R2 score of 0.98.
+* My restaurant rating prediction model obtained a R2 score of 0.98.
 * Random Forest performs better on the model than logistic regression.
 
 # Insights from EDA
