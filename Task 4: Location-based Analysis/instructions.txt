@@ -1,0 +1,4 @@
+The jupyter notebook "Location_based_Analysis.ipynb" attached here is not properly visible in the repo preview.
+It could be due to the heavy json rendering of folium/ geopanda map in the notebook itself.
+You are advised to download it and view it yourself in your system. 
+Thank you!
