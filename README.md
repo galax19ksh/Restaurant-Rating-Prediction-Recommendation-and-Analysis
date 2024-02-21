@@ -46,7 +46,7 @@ classify restaurants based on their cuisines.
 
 
 # Dataset
-Uploaded here in the repo
+CSV file is uploaded here in the repo
 
 # Platform
 Google Colab
