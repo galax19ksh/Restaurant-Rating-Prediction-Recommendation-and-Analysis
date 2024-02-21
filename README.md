@@ -65,7 +65,7 @@ pandas, numpy, matplotlib, seaborn, scikitlearn
 * Random Forest performs better on the model than logistic regression.
 
 # Insights from EDA
-* Expensive restaurants (higher price range) tend to have higher ratings.
+* Expensive restaurants tend to have higher ratings.
 * Visualized the geospatial distribution of restaurants on the map using their co-ordinates.
 * New Delhi has the highest number of restaurants.
 * 'North Indian' is the most popular cuisine overall.
